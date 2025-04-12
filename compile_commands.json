@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/desktop/Documents/module-cpp/build",
+  "command": "/usr/bin/clang++ -std=c++20 @CMakeFiles/foo.dir/foo.cxx.o.modmap -o CMakeFiles/foo.dir/foo.cxx.o -c /home/desktop/Documents/module-cpp/foo.cxx",
+  "file": "/home/desktop/Documents/module-cpp/foo.cxx",
+  "output": "CMakeFiles/foo.dir/foo.cxx.o"
+},
+{
+  "directory": "/home/desktop/Documents/module-cpp/build",
+  "command": "/usr/bin/clang++ -std=c++20 @CMakeFiles/hello.dir/main.cxx.o.modmap -o CMakeFiles/hello.dir/main.cxx.o -c /home/desktop/Documents/module-cpp/main.cxx",
+  "file": "/home/desktop/Documents/module-cpp/main.cxx",
+  "output": "CMakeFiles/hello.dir/main.cxx.o"
+}
+]

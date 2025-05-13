@@ -5,7 +5,7 @@ project(std_module_example CXX)
 # clang 17 and greater can avoid this setting
 set(CMAKE_CXX_EXTENSIONS OFF)
 # Set the version of C++ for the project
-set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_STANDARD 23)
 # Create a library
 add_library(foo)
 # Add the module file to the library
